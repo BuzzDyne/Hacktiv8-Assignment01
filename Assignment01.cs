@@ -207,7 +207,7 @@ public class Assignment01
         int number = -1;
 
         // Input
-        Console.WriteLine("=== Create Numerical Triangle ===");
+        Console.WriteLine("=== Calculate Factorial ===");
         do
         {
             Console.Write("Input Number: ");
